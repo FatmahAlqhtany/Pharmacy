@@ -22,7 +22,7 @@ namespace Week4
                 item = int.Parse(Console.ReadLine());
                 while (item >=6 )
                 {
-                    Console.WriteLine("please enter the Range between [1-5]");
+                    Console.WriteLine("Alert , The range must be between [1-5]");
                     item = int.Parse(Console.ReadLine());
                 }
                 switch (item)
