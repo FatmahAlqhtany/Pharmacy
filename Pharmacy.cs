@@ -13,7 +13,7 @@ namespace Week4
         ask:
             do
             {
-                Console.WriteLine("Please chose your Pharmacy: \n" +
+                Console.WriteLine("Please chose your item: \n" +
                     "1- Medicine price: 200 SR \n" +
                     "2- Shampoo price: 50SR \n" +
                     "3- Careem price: 50SR \n" +
